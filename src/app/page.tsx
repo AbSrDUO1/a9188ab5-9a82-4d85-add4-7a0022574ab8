@@ -20,10 +20,6 @@ export default function Home() {
         containerClassName=""
         logoClassName=""
         buttonClassName=""
-        buttonBgClassName=""
-        buttonHoverBgClassName=""
-        buttonTextColor=""
-        buttonHoverTextColor=""
       />
 
       <div id="hero" data-section="hero" className="scroll-mt-24">
